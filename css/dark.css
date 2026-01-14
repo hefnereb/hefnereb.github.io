@@ -1,0 +1,36 @@
+/* Dark theme override */
+:root { color-scheme: dark; }
+
+body {
+  background: #0f1115 !important;
+  color: #e6e6e6 !important;
+}
+
+a { color: #8ab4ff !important; }
+a:visited { color: #c58af9 !important; }
+
+.navbar, header, footer, .site-header, .site-footer {
+  background: #0f1115 !important;
+  border-color: #2a3142 !important;
+}
+
+.card, .container, .content, main {
+  background: transparent !important;
+}
+
+h1,h2,h3,h4,h5,h6 { color: #ffffff !important; }
+
+pre, code {
+  background: #1b1f2a !important;
+  color: #e6e6e6 !important;
+  border-color: #2a3142 !important;
+}
+
+blockquote {
+  border-left: 4px solid #2a3142 !important;
+  color: #cfcfcf !important;
+}
+
+hr, table, th, td {
+  border-color: #2a3142 !important;
+}
