@@ -6,8 +6,24 @@ body {
   color: #e6e6e6 !important;
 }
 
-a { color: #8ab4ff !important; }
-a:visited { color: #c58af9 !important; }
+/* Link colors */
+a {
+  color: #8ab4ff !important;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #8ab4ff !important;   /* same as normal */
+}
+
+a:hover {
+  color: #ff9f43 !important;   /* orange hover */
+  text-decoration: underline;
+}
+
+a:active {
+  color: #ff9f43 !important;
+}
 
 .navbar, header, footer, .site-header, .site-footer {
   background: #0f1115 !important;
