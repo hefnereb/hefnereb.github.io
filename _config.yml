@@ -10,7 +10,8 @@ github_username: "hefnereb"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
+#theme: "minima"
+remote_theme: jekyll/minima
 
 rss: rss
 
@@ -23,7 +24,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 minima:
-  skin: 'dark'
+  skin: dark
 
 titles_from_headings:
   strip_title: true
