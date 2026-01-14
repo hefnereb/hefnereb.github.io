@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+This is a blog that spans my time in CS 4100 - Senior Seminar. 
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Thanks for checking it out!
