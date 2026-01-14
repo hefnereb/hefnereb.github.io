@@ -10,8 +10,7 @@ github_username: "hefnereb"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima:
-        skin: dark"
+theme: "minima"
 
 rss: rss
 
